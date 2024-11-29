@@ -25,6 +25,10 @@ Depend on Technology stack used but here are some general categories of events
 
 ![image](https://github.com/user-attachments/assets/18408bb0-a7d2-4de3-ab9a-54f48dbeb973)
 
+# AI Telemetry Components
+<img width="428" alt="image" src="https://github.com/user-attachments/assets/a9680feb-87d1-4c9c-83da-dfdd4f22bbf8">
+
+
 
 
 
