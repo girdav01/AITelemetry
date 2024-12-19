@@ -3,6 +3,8 @@ AI Telemetry project. Create a standard for AI infrastructure, systems and apps 
 
 This project was initially presented to CoSAI TS 2 on November 12th.
 
+RFC proposal: https://github.com/cosai-oasis/ws2-defenders/issues/6
+
 # Problem 
 AI systems runs in many different technology stacks locally, centrally in DC’s or in Cloud. They have multiple components and with AI agents they could interact with many other systems.
 Multiple AI security guidelines and some new standards and legislations are appearing 
